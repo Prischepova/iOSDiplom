@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "37E93A22-6AE2-43D0-8BC8-3622D0BA9398"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1112999D-854E-47A4-A196-2E98FE03006E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OlimpiaStart/Views/ScheduleViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ScheduleViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "1112999D-854E-47A4-A196-2E98FE03006E - 2b24ca8b98fbb62b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OlimpiaStart.ScheduleViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; OlimpiaStart.ScheduleViewController"
+                  moduleName = "OlimpiaStart"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kseniaprisepova/Desktop/OlimpiaStart/OlimpiaStart/Views/ScheduleViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "1112999D-854E-47A4-A196-2E98FE03006E - 8a8703104ea20339"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OlimpiaStart.ScheduleViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; OlimpiaStart.ScheduleViewController"
+                  moduleName = "OlimpiaStart"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kseniaprisepova/Desktop/OlimpiaStart/OlimpiaStart/Views/ScheduleViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "1112999D-854E-47A4-A196-2E98FE03006E - a84fb65f44d22a8f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OlimpiaStart.ScheduleViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;OlimpiaStart.ScheduleViewController&gt;"
+                  moduleName = "OlimpiaStart"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kseniaprisepova/Desktop/OlimpiaStart/OlimpiaStart/Views/ScheduleViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "1112999D-854E-47A4-A196-2E98FE03006E - ed0c8d504df7077f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OlimpiaStart.ScheduleViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;OlimpiaStart.ScheduleViewController&gt;"
+                  moduleName = "OlimpiaStart"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kseniaprisepova/Desktop/OlimpiaStart/OlimpiaStart/Views/ScheduleViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "1112999D-854E-47A4-A196-2E98FE03006E - 5ed1e03275420e4f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OlimpiaStart.ScheduleViewController.__deallocating_deinit"
+                  moduleName = "OlimpiaStart"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kseniaprisepova/Desktop/OlimpiaStart/OlimpiaStart/Views/ScheduleViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
